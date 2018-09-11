@@ -1,3 +1,12 @@
+---
+layout: archive
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+ {% include base_path %}
+ 
 Work experience
 ======
 - Jun 2016 – Apr 2017: **Vrije Universiteit Brussel**
