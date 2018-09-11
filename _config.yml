@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Page"
+title                    : "Lars's GitSite"
 title_separator          : "-"
 name                     : &name "Lars Costers"
 description              : &description "personal description"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "About me"
+  name             : "Lars Costers"
   avatar           : "Lars copy 2.png"
   bio              : "FWO PhD Student Cognition and Modelling Group (CIME) at the Vrije Universiteit Brussel "
   location         : "Brussels"
