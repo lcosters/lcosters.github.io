@@ -80,8 +80,8 @@ analytics:
 # Site Author
 author:
   name             : "My info"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "Lars copy 2.png"
+  bio              : "FWO PhD Student - Cognition and Modelling Group (CIME) @ VUB Brussels. Studying working memory function using magnetoencephalography in healthy persons and multiple sclerosis patients."
   location         : "Brussels"
   employer         :
   googlescholar    : "https://scholar.google.be/citations?user=iitBITcAAAAJ&hl=en"
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "lcosters"
   google_plus      :
   keybase          :
   instagram        :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@lcosters"
+  twitter          : "@larscosters"
   vine             :
   weibo            :
   xing             :
