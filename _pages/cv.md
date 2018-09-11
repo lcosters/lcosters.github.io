@@ -8,7 +8,7 @@ redirect_from:
  {% include base_path %}
  
 Work experience
-======
+------
 - Jun 2016 – Apr 2017: Vrije Universiteit Brussel
   - **Teaching Assistant**
   - Faculty of Medicine
