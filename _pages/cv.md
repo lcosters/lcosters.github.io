@@ -32,7 +32,7 @@ Education
 Internships
 ======
 * Sep 2015 - Mar 2016: University College London
-  - At the **Institute of Neurology**, Department of Inflammation (MS Centre, Queen Square): *An evaluation of   the efficacy of hyperoxia treatment on neurological dysfunction and structural damage in a model of Multiple Sclerosis.* Under supervision of Prof. Dr. Kenneth Smith and Dr. Desai Roshni.
+  - At the Institute of Neurology, Department of Inflammation (MS Centre, Queen Square): *An evaluation of   the efficacy of hyperoxia treatment on neurological dysfunction and structural damage in a model of Multiple Sclerosis.* Under supervision of Prof. Dr. Kenneth Smith and Dr. Desai Roshni.
 
 Publications
 ======
