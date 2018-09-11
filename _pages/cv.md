@@ -19,7 +19,7 @@ Work experience
   - Center for Neurosciences
 
 Education
-======
+------
 - Sep 2011 – Jun 2014: University of Ghent
   - **Bachelor of Science in Experimental and Theoretical Psychology**
   - *Cum Fructu*
@@ -30,18 +30,18 @@ Education
   - *Magna Cum Laude*
   
 Internships
-======
-* Sep 2015 - Mar 2016: University College London
+------
+- Sep 2015 - Mar 2016: University College London
   - At the Institute of Neurology, Department of Inflammation (MS Centre, Queen Square): *An evaluation of   the efficacy of hyperoxia treatment on neurological dysfunction and structural damage in a model of Multiple Sclerosis.* Under supervision of Prof. Dr. Kenneth Smith and Dr. Desai Roshni.
 
 Publications
-======
-  <ul>{% for post in site.publications %}
+------  
+<ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Unpublished Research
-======
+------
 - EPO Research Project: *Multisensory integration an adaptive process? Looking for intersensory bias effects using the McGurk effect and Pip-and-Pop task*. Under supervision of Dr. Prof. Durk Talsma and Dr. Raquel London.
 - Masterthesis: *Dynamical diseases: modelling the effect of stimulation-based interventions on intrinsic brain dynamics. An application to epilepsy.* Under supervision of Dr. Prof. Daniele Marinazzo.
 
