@@ -18,7 +18,7 @@ The goal of this website
 This website will be used to share [publications](https://lcosters.github.io/publications) and their code, and [presentations and posters](https://lcosters.github.io/presentations).
 
 
-![](IMG-20180224-WA0000.jpg)
+![](images/IMG-20180224-WA0000.jpg?raw=true)
 
 
 
