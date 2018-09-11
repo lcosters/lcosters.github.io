@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,20 +11,20 @@ redirect_from:
 Education
 ======
 *   Sep 2005 – Jun 2011: Royal Atheneum Grimbergen
-  Sciences and Modern Languages
+>  Sciences and Modern Languages
 *   Sep 2011 – Jun 2014: University of Ghent
-  Bachelor of Science in Experimental and Theoretical Psychology
-  Cum Fructu
+>  **Bachelor of Science in Experimental and Theoretical Psychology**
+-  *Cum Fructu*
 *   Sep 2014 - Jun 2016: University of Ghent
-  Master of Science in Experimental and Theoretical Psychology
-  Specialization in neuroscience
-  Magna Cum Laude
+-  **Master of Science in Experimental and Theoretical Psychology**
+-  *Specialization in neuroscience*
+-  *Magna Cum Laude*
   
 
 Internships
 ======
 * September 2015 - March 2016: University College London
-  At University College London, Institute of Neurology, Department of Inflammation (MS Centre, Queen Square): An evaluation of   the efficacy of hyperoxia treatment on neurological dysfunction and structural damage in a model of Multiple Sclerosis.       Under supervision of Dr. Prof. Kenneth Smith and Dr. Desai Roshni.
+  At University College London, Institute of Neurology, Department of Inflammation (MS Centre, Queen Square): An evaluation of   the efficacy of hyperoxia treatment on neurological dysfunction and structural damage in a model of Multiple Sclerosis.       Under supervision of Prof. Dr. Kenneth Smith and Dr. Desai Roshni.
 
 
 Work experience
