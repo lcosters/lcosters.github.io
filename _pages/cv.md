@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+*   Sep 2005 – Jun 2011: Royal Atheneum Grimbergen
+  Sciences and Modern Languages
+*   Sep 2011 – Jun 2014: University of Ghent
+  Bachelor of Science in Experimental and Theoretical Psychology
+  Cum Fructu
+*   Sep 2014 - Jun 2016: University of Ghent
+  Master of Science in Experimental and Theoretical Psychology
+  Specialization in neuroscience
+  Magna Cum Laude
+  
+
+Internships
+======
+* September 2015 - March 2016: University College London
+  At University College London, Institute of Neurology, Department of Inflammation (MS Centre, Queen Square): An evaluation of   the efficacy of hyperoxia treatment on neurological dysfunction and structural damage in a model of Multiple Sclerosis.       Under supervision of Dr. Prof. Kenneth Smith and Dr. Desai Roshni.
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun 2016 – Apr 2017: Vrije Universiteit Brussel
+  Assistent
+  Faculty of Medicine
+  Center for Neurosciences
+* Apr 2017 – present: Vrije Universiteit Brussel
+  FWO PhD Researcher
+  Cognition and Modelling Lab (CIME) Center for Neurosciences
+  Vrije Universiteit Brussel
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -42,18 +46,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
