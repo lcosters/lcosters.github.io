@@ -10,9 +10,9 @@ redirect_from:
 Work experience
 ======
 - Jun 2016 – Apr 2017: **Vrije Universiteit Brussel**
-**Teaching Assistant**
-Faculty of Medicine
-Center for Neurosciences
+  - **Teaching Assistant**
+  - Faculty of Medicine
+  - Center for Neurosciences
 - **Apr 2017 – present: Vrije Universiteit Brussel
 FWO PhD Student**
 *Cognition and Modelling Lab (CIME)*
