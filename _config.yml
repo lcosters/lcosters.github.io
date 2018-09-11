@@ -79,9 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "My info"
+  name             : "About me"
   avatar           : "Lars copy 2.png"
-  bio              : "FWO PhD Student - Cognition and Modelling Group (CIME) @ VUB Brussels. Studying working memory function using magnetoencephalography in healthy persons and multiple sclerosis patients."
+  bio              : "FWO PhD Student Cognition and Modelling Group (CIME) at the Vrije Universiteit Brussel "
   location         : "Brussels"
   employer         :
   googlescholar    : "https://scholar.google.be/citations?user=iitBITcAAAAJ&hl=en"
