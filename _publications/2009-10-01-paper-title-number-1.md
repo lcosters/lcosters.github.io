@@ -1,15 +1,25 @@
 ---
-title: "Paper Title Number 1"
+title: "Does including the full CVLT-II and BVMT-R improve BICAMS? Evidence from a Belgian (Dutch) validation study."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/BICAMS
+excerpt: ''
+date: 2017-11-01
+venue: 'Multiple Sclerosis and Related Disorders'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S221103481730202X?via%3Dihub'
+citation: 'Costers et al. (2017). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+BACKGROUND:The Brief International Cognitive Assessment for Multiple Sclerosis (BICAMS) is a fast, easy-to-administer and already widely validated neuropsychological battery for cognition in multiple sclerosis. 
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+OBJECTIVE:
+The goals of our study were to validate the BICAMS in a Belgian Dutch-speaking population and to investigate to what extent including extensive versions of two of the three BICAMS subtests improved its psychometric qualities. 
+
+METHODS:
+Ninety-seven persons with MS and ninety-seven healthy controls were included and group-matched on age, education level and gender. All participants performed the BICAMS with an extensive version of the CVLT-II and BVMT-R. 
+
+RESULTS:
+The SDMT and BVMT-R were able to dissociate between the MS and healthy control group, while the CVLT-II was not. Distributions of CVLT-II scores suggest learning effects in the MS group, indicating the need for alternative word lists or the construction of an adapted version fitted for repeated administration. Including the full CVLT-II and BVMT-R did not markedly improve the psychometric qualities of the BICAMS. 
+
+CONCLUSION: This study validates the BICAMS in a Belgian Dutch-speaking population and facilitates the use of it in clinical practice, while providing evidence that including full versions of the CVLT-II and BVMT-R does not increase its psychometric qualities markedly.
+
+Recommended citation: Costers, L., Gielen, J., Eelen, P. L., Van Schependom, J., Laton, J., Van Remoortel, A., ... & Nagels, G. (2017). Does including the full CVLT-II and BVMT-R improve BICAMS? Evidence from a Belgian (Dutch) validation study. Multiple sclerosis and related disorders, 18, 33-40.
