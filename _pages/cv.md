@@ -8,7 +8,7 @@ redirect_from:
 ---
  {% include base_path %}
  
- <a href="files/CV (7).pdf" download>Download my resume</a>
+ <a href="files/LC_CV.pdf" download>Download my resume</a>
 
 
 Work experience
