@@ -10,10 +10,7 @@ redirect_from:
  
  <a href="files/CV (7).pdf" download>Download File</a>
 
- <a href="CV (7).pdf" download>Download File</a>
-
-
- <a href="files/CV (7).pdf">
+ <a href="lcosters.github.io/files/CV (7).pdf" download>Download File</a>
  
 Work experience
 ------
