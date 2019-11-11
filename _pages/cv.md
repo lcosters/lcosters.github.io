@@ -12,6 +12,10 @@ redirect_from:
 
 <embed src="files/CV (7).pdf" type="application/pdf" width="100%" height="600px" />
 
+<iframe src="https://drive.google.com/file/d/1T3lGF5fQayS9sqfLrhKnnrvp0h30iA54/view?usp=sharing" style="width:718px; height:700px;" frameborder="0"></iframe>
+
+
+
 
 Work experience
 ------
