@@ -8,7 +8,7 @@ redirect_from:
 ---
  {% include base_path %}
  
- <a href="CV (7).pdf">
+ <a href="files/CV (7).pdf">
  
 Work experience
 ------
