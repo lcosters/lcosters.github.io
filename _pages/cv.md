@@ -8,11 +8,7 @@ redirect_from:
 ---
  {% include base_path %}
  
- <a href="files/CV (7).pdf" download>Download Resume</a>
-
-<embed src="files/CV (7).pdf" width="800px" height="2100px" />
-
-<iframe src="files/CV (7).pdf" style="width: 100%;height: 100%;border: none;"></iframe>
+ <a href="files/CV (7).pdf" download>Download my resume</a>
 
 <embed src="files/CV (7).pdf" type="application/pdf" width="100%" height="600px" />
 
