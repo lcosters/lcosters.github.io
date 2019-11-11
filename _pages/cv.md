@@ -8,7 +8,7 @@ redirect_from:
 ---
  {% include base_path %}
  
- <a href="https://lcosters.github.io/files/LC_CV.pdf" download>Download my resume</a>
+ <a href="https://lcosters.github.io/files/Lars_CV.pdf" download>Download my resume</a>
 
 
 Work experience
