@@ -8,6 +8,8 @@ redirect_from:
 ---
  {% include base_path %}
  
+ <a href="CV (7).pdf">
+ 
 Work experience
 ------
 - Jun 2016 – Apr 2017: Vrije Universiteit Brussel
