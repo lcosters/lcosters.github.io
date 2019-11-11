@@ -12,6 +12,8 @@ redirect_from:
 
 <embed src="files/CV (7).pdf" width="800px" height="2100px" />
 
+<iframe src="files/CV (7).pdf" style="width: 100%;height: 100%;border: none;"></iframe>
+
 Work experience
 ------
 - Jun 2016 – Apr 2017: Vrije Universiteit Brussel
