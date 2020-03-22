@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /cv/
+permalink: /resume/
 title: "Curriculum Vitae"
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
  {% include base_path %}
  
- <a href="https://lcosters.github.io/files/Lars_CV.pdf" download>Download my resume</a>
+ <a href="https://lcosters.github.io/files/Lars_CV.pdf" download>Download a nice looking version here</a>
 
 
 Work experience
