@@ -1,0 +1,8 @@
+---
+title: "Spatiotemporal and spectral dynamics of multi-item working memory as revealed by the n-back task using MEG."
+collection: publications
+permalink: lcosters.github.io/files/NBhc.pdf
+excerpt: "Multi-item working memory (WM) is a complex cognitive function thought to arise from specific frequency band oscillations and their interactions. While some theories and consistent findings have been established, there is still a lot of unclarity about the sources, temporal dynamics, and roles of event-related fields (ERFs) and theta, alpha, and beta oscillations during WM activity. In this study, we performed an extensive whole-brain ERF and time-frequency analysis on n-back magnetoencephalography data from 38 healthy controls. We identified the previously unknown sources of the n-back M300, the right inferior temporal and parahippocampal gyrus and left inferior temporal gyrus, and frontal theta power increase, the orbitofrontal cortex. We shed new light on the role of the precuneus during n-back activity, based on an early ERF and theta power increase, and suggest it to be a crucial link between lower-level and higher-level information processing. In addition, we provide strong evidence for the central role of the hippocampus in multi-item WM behavior through the dynamics of theta and alpha oscillatory changes. Almost simultaneous alpha power decreases observed in the hippocampus and occipital fusiform gyri, regions known to be involved in letter processing, suggest that these regions together enable letter recognition, encoding and storage in WM. In summary, this study offers an extensive investigation into the spatial, temporal, and spectral characteristics of n-back multi-item WM activity."
+date: 2020-03-17
+venue: 'Human Brain Mapping'
+---
