@@ -10,7 +10,7 @@ redirect_from:
 
 My research focus
 ======
-During my PhD, I will be focussing on cognitive impairment in multiple sclerosis (MS). Currently I am working on a dataset of magnetoencephalography data recorded during a working memory task from healthy controls and MS patients. 
+During my PhD, I will be focussing on cognitive impairment in multiple sclerosis (MS). Currently I am working on a dataset of magnetoencephalography data recorded during a working memory task from healthy controls and MS patients. My PhD is supervised by Prof. Dr. ir. Guy Nagels and Prof. Dr. ir. Jeroen Van Schependom.
 
 
 The goal of this website
